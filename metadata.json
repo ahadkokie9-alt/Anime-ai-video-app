@@ -1,0 +1,6 @@
+{
+  "name": "AnimeVideo AI",
+  "description": "AI anime video generator with Hindi narrator and character voices, cinematic continuity, audio mixing, and extensible Replicate video pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
